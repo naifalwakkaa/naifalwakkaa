@@ -1,13 +1,12 @@
 <div align="center">
 
-# Hi, I'm Naeef Alwakkaa 👋
+# Naeef Alwakkaa
 
-### AI Student · Python Developer · Building Practical Data Tools
+### Artificial Intelligence Student · Curious Builder
 
-I turn what I learn into useful applications, with a focus on
-data quality, machine learning, and clear user experiences.
+Exploring AI, solving practical problems, and sharing what I learn.
 
-[Try My Latest Project](https://naeef-dataset-doctor.streamlit.app/) · [Explore My Repositories](https://github.com/naifalwakkaa?tab=repositories)
+[Projects](https://github.com/naifalwakkaa?tab=repositories) · [GitHub](https://github.com/naifalwakkaa)
 
 </div>
 
@@ -15,48 +14,46 @@ data quality, machine learning, and clear user experiences.
 
 ## About Me
 
-- 🎓 Artificial Intelligence student at Universiti Teknikal Malaysia Melaka (UTeM)
-- 🐍 Building applications with Python, pandas, NumPy, and Streamlit
-- 🌱 Developing my skills in machine learning, software testing, and deployment
-- 🎯 Interested in tools that make working with data easier
+I'm an Artificial Intelligence student at Universiti Teknikal
+Malaysia Melaka (UTeM).
 
-## Featured Project
+I enjoy turning ideas into working projects and learning how to
+build, test, and improve them along the way.
 
-### 🩺 Dataset Doctor
+## Interests
 
-An interactive tool for inspecting CSV datasets and previewing cleaning
-operations before exporting the results.
+- Machine Learning & Neural Networks
+- Computer Vision & Image Processing
+- Natural Language Processing
+- Data Science & Software Development
 
-| Inspect | Clean | Review |
+## My Toolkit
+
+| Area | Tools I've worked with |
+| --- | --- |
+| Programming | Python |
+| Data Processing | pandas, NumPy |
+| App Development | Streamlit |
+| Development Tools | Git, GitHub, VS Code |
+| Testing | Python unittest |
+
+## Projects
+
+Each repository documents the problem, implementation, and how to run it.
+
+| Project | Description | Links |
 | --- | --- | --- |
-| Missing values and duplicate rows | Normalize text and handle missing values | Compare original and cleaned data |
-| Inconsistent casing and whitespace | Remove selected columns and duplicates | Track operations in a cleaning log |
-| Potential outliers and numeric text | Preview changes before downloading | Export CSV data and JSON reports |
+| Dataset Doctor | CSV diagnostics, cleaning previews, and exportable reports | [Code](https://github.com/naifalwakkaa/dataset-doctor) · [Demo](https://naeef-dataset-doctor.streamlit.app/) |
 
-**Built with:** Python · pandas · NumPy · Streamlit
+## Currently Learning
 
-Includes seven automated tests covering core cleaning behavior.
-
-[Live Demo](https://naeef-dataset-doctor.streamlit.app/) · [Source Code](https://github.com/naifalwakkaa/dataset-doctor)
-
-![Dataset Doctor diagnostics](https://raw.githubusercontent.com/naifalwakkaa/dataset-doctor/main/screenshots/diagnostics.png)
-
-## Tools I Use
-
-**Languages:** Python  
-**Data:** pandas · NumPy  
-**Applications:** Streamlit  
-**Development:** Git · GitHub · VS Code · unittest
-
-## What I'm Working On
-
-Improving Dataset Doctor and building a portfolio of practical,
-documented projects that I can explain, test, and maintain.
+Building stronger foundations in machine learning and software
+engineering, with a focus on understanding the decisions behind the code.
 
 ---
 
 <div align="center">
 
-**Learn → Build → Test → Improve**
+Learning through projects. Improving through practice.
 
 </div>
