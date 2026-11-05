@@ -2,58 +2,38 @@
 
 # Naeef Alwakkaa
 
-### Artificial Intelligence Student · Curious Builder
+### Artificial Intelligence Student at UTeM
 
-Exploring AI, solving practical problems, and sharing what I learn.
+Exploring machine learning, computer vision, data science, and software development.
 
-[Projects](https://github.com/naifalwakkaa?tab=repositories) · [GitHub](https://github.com/naifalwakkaa)
+[GitHub Projects](https://github.com/naifalwakkaa?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm an Artificial Intelligence student at Universiti Teknikal
-Malaysia Melaka (UTeM).
-
-I enjoy turning ideas into working projects and learning how to
-build, test, and improve them along the way.
+I'm an Artificial Intelligence student at Universiti Teknikal Malaysia Melaka (UTeM). I use projects to strengthen my programming, data, and software development skills, and I enjoy turning ideas into working applications.
 
 ## Interests
 
-- Machine Learning & Neural Networks
-- Computer Vision & Image Processing
-- Natural Language Processing
-- Data Science & Software Development
+- Machine learning and neural networks
+- Computer vision and image processing
+- Natural language processing
+- Data analysis and practical software tools
 
-## My Toolkit
+## Selected Projects
 
-| Area | Tools I've worked with |
-| --- | --- |
-| Programming | Python |
-| Data Processing | pandas, NumPy |
-| App Development | Streamlit |
-| Development Tools | Git, GitHub, VS Code |
-| Testing | Python unittest |
-
-## Projects
-
-Each repository documents the problem, implementation, and how to run it.
-
-| Project | Description | Links |
+| Project | What it is | Technologies |
 | --- | --- | --- |
-| Dataset Doctor | CSV diagnostics, cleaning previews, and exportable reports | [Code](https://github.com/naifalwakkaa/dataset-doctor) · [Demo](https://naeef-dataset-doctor.streamlit.app/) |
+| [Dataset Doctor](https://github.com/naifalwakkaa/dataset-doctor) | Inspect CSV data quality, review findings, and preview cleaning operations before exporting | Python, pandas, NumPy, Streamlit |
+| [Portfolio](https://github.com/naifalwakkaa/portfolio) | Personal portfolio website | HTML |
 
-## Currently Learning
+## Skills in Progress
 
-Building stronger foundations in machine learning and software
-engineering, with a focus on understanding the decisions behind the code.
+Python · pandas · NumPy · Streamlit · Git · GitHub · Machine Learning
 
----
+## Connect
 
-<div align="center">
-
-Learning through projects. Improving through practice.
-
-</div>
+[GitHub repositories](https://github.com/naifalwakkaa?tab=repositories)
